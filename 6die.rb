@@ -7,3 +7,7 @@ def roll_again
 end
 
 roll_again
+
+# Since rand can handle ranges we can just do
+# puts rand(1..6)
+
